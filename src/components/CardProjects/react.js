@@ -79,12 +79,12 @@ const ReactProjects = () => (
       </CardText>
       <CardActions>
          <Button colored>
-         <a style={{textDecoration: 'none', color: '#236789'}} href="https://github.com/misaelASF/react-github"
+         <a style={{textDecoration: 'none', color: '#236789'}} href="https://github.com/misaelASF/myportfolio"
               target="_blank"
               rel="noopener noreferrer">GitHub</a>
          </Button>
          <Button colored>
-           <a style={{textDecoration: 'none', color: '#236789'}} href="http://reactjs-github.herokuapp.com/"
+           <a style={{textDecoration: 'none', color: '#236789'}} href="https://misael-dev.herokuapp.com/portfolio"
               target="_blank"
               rel="noopener noreferrer">Link</a>
          </Button>
