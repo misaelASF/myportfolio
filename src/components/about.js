@@ -28,8 +28,8 @@ class About extends Component {
            <h5>Endereço:</h5>
            <p><strong style={{textTransform: 'uppercase', color: '#08f',
             borderBottom: '1px solid #ddd', fontSize: '1.5em'}}>Paulista, PE.</strong></p>
-           {/* <h5>Meu GitHub</h5>
-           <p></p> */}
+           <h5>Meu Website:</h5>
+           <p style={{color: "#f00", fontSize: "1.2rem"}}>https://misael-dev.herokuapp.com/</p>
         </Cell>
         <Cell className="about-right-col" col={8}>
            <h2>Ensino: </h2>
