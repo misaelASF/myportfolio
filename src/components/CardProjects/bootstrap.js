@@ -7,7 +7,7 @@ const BootProjects = () => (
            <Card shadow={5} style={{minWidth: '450', margin: 'auto', marginTop: '20px', borderRadius: '8px'}}>
     <CardTitle style={{color: '#000', height: '176px', 
       background: `url(https://conexaofreelancer.com.br/wp-content/uploads/2018/06/Negativo.png) center / cover`}}>
-      Nodejs Projeto.
+      Bootstrap Projeto.
     </CardTitle>
       <CardText>
       Lorem Ipsum is simply dummy text of the printing and typesetting 
